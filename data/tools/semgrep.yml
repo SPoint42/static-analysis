@@ -2,11 +2,12 @@ name: Semgrep
 categories:
   - linter
 tags:
-  - c
   - go
   - java
   - javascript
   - python
+  - ruby
+  - typescript 
 license: GNU Lesser General Public License v2.1
 types:
   - cli
